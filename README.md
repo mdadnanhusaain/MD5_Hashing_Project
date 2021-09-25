@@ -1,4 +1,4 @@
-# ShapeAI Python Network Security Bootcamp Project
+# MD5 Hashing Project
 This Repository contains the code for the project on MD5 Hashing.<br>
 <b>Some Key Points about the Code - </b><br>
 <li>Uses Python & hashlib packgage and displays the MD5 code of string entered.<br>
